@@ -1,0 +1,48 @@
+/* google font link  */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* font-family: "Manrope" */
+/* -------------------- */
+
+/* header nav bar title  */
+.navbar-brand{
+    font-weight: 700;
+}
+a.navbar-brand{
+    font-size: 2.0rem;
+}
+.navbar-nav{
+    margin: 0 auto;
+}
+.navbar-nav li{
+    padding: 0px 15px;
+}
+input.form-control.mr-sm-2{
+    border: none;
+}
+button.btn.batt.my-2.my-sm-0{
+    background: #FF4240;
+    color: #fff;
+}
+/* -------------------------------- */
+
+/* profectional club title css */
+.club_sec{
+    padding: 50px 0px;
+}
+main.container h2{
+    color: #131318;
+    text-align: center;
+}
+main.container p{
+    color: rgba(19, 19, 24, 0.60);
+    margin: 0 auto;
+    width: 660px;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* ----------------------------- */
+.radial-progress{
+    border-color;:  #FF4240
+}
